@@ -1,4 +1,4 @@
-# hw5_competition   
+# Mortality rate prediction
 
 You don't need to run train.py.
 It is saving two best models by auc and f2 scores.
